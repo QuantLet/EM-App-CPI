@@ -1,10 +1,10 @@
 Name of Quantlet: EM-App-CPI
 
-Published in: under review
+Published in: no publication
 
-Description: Performs a classification of the CPI for the US using a clustering model based on the EM algorithm
+Description: Performs a classification of the CPI for the US using a clustering model based on the EM algorithm. Does a simulation for checking convergence.
 
-Keywords: time series, CPI, EM algorithm, clustering, density
+Keywords: time series, CPI, EM algorithm, clustering, density, convergence
 
 Author: Petre Caraiani
 
