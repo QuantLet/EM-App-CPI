@@ -8,4 +8,4 @@ Keywords: time series, CPI, EM algorithm, clustering, density, convergence
 
 Author: Petre Caraiani
 
-Submitted:  Wed, June 19 2024 by Petre Caraiani
+Submitted:  Wed, July 8th 2024 by Petre Caraiani
